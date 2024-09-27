@@ -1,4 +1,4 @@
-"id";"name";"vimeo_name";"total_items";"has_new_videos";"created_date";"updated_date";"plan_level";"is_parent";"has_child";"total_views";"description";"resource_key";"subscription_plan_id";"duration";"parent_resource_key";"parent_id";"vimeo_uri"
+id,name,vimeo_name,total_items,has_new_videos,created_date,updated_date,plan_level,is_parent,has_child,total_views,description,resource_key,subscription_plan_id,duration,parent_resource_key,parent_id,vimeo_uri
 640;"Main Organization Videos";"Main Organization Videos";6;0;"2023-10-15 22:36:29.000000";"2023-10-15 22:40:25.000000";0;1;1;0;"thisi-folder-description";"8b067bfd279347d3763a17b384191cf1c7f8604a";0;0;"";0;""
 641;"Terraform Helm Module";"Terraform Helm Module";0;0;"2023-10-15 22:40:25.000000";"2023-10-15 22:40:26.000000";0;0;1;0;"";"c58214bf16c087a58141ccbeb254cc390b389046";0;0;"8b067bfd279347d3763a17b384191cf1c7f8604a";640;""
 642;"Common Cluster";"Common Cluster";0;0;"2023-10-15 22:38:06.000000";"2023-10-15 22:38:06.000000";0;0;1;0;"";"9a61e8f2b70401c4bc1e89950b1889a3841803a0";0;0;"8b067bfd279347d3763a17b384191cf1c7f8604a";640;""
